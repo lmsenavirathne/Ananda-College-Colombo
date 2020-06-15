@@ -1,4 +1,4 @@
-<h1><center>Welcome to Ananda College Colombo</h1>
+<h1><center>Welcome to Ananda College Colombo</center></h1>
 
 You can use the [editor on GitHub](https://github.com/lmsenavirathne/Ananda-College-Colombo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
