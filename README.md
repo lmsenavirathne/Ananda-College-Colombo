@@ -1,6 +1,6 @@
 <h1><center>Welcome to Ananda College Colombo</center></h1>
 
-You can use the [editor on GitHub](https://github.com/lmsenavirathne/Ananda-College-Colombo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A need of the era, in the British colonial period, an English education for the children of majority Buddhists of the country became a reality, when on 1st November, 1886, a daily English school was opened at No: 64, in Maliban Street, Pettah, pioneered by Ven. Hikkaduwe Sri Sumangala Thero and inspired by Col. Henry Steele Olcott, the founder of Buddhist Theosophical Society ( popularly known as BTS ). Starting with a mere student population of 37, it was soon re-located at Paranavadiya in Maradana, where it blossomed into present day pristine glory, accommodating over 6000 students. Re-named “ Ananda College “, after Buddha’s chief disciple Arahat Ananda, it earned reputation as island’s Premier Buddhist Educational Institution for boys.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
